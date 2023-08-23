@@ -12,8 +12,7 @@ Habit tracker application used to track our daily habits or tasks and gives us o
 
 <img width="1440" alt="weekly tracker" src="https://user-images.githubusercontent.com/115941802/219392904-ec8aba97-00d7-4a7c-82da-d33d32019b8b.png">
 
-Hosted link -  https://sarojinin-habit-tracker.netlify.app
-
+Hosted link -  
 
 # Getting Started with Create React App
 
